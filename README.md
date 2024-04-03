@@ -18,6 +18,6 @@ Hey everyone! 👋 I'm Sheba Darko, an MSc graduate specializing in data science
 
 **Let's Connect**
 
-Feel free to reach out on [LinkedIn](https://de.linkedin.com/in/bathsheba-darko-480b9198) or via email at bathshebadarko7@gmail.com.
+Feel free to reach out on [LinkedIn](https://de.linkedin.com/in/bathsheba-darko-480b9198) or via email at [bathshebadarko7@gmail.com](mailto:bathshebadarko7@gmail.com).
 
 Looking forward to learning and growing together! 🌟
