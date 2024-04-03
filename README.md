@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ShebaDarko
-- 👀 I’m interested in datascience and machine learning  
-- 🌱 I’m currently learning Datascience 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 I’m  compuational and applied mathematics student specialiszing in datascience and machine learning  
+- 🌱 I’m currently work on big data, analyse, make analysis and visualise results accordingly.
+- 💞️ I’m looking to collaborate on interesting projects .
 
 <!---
 ShebaDarko/ShebaDarko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
