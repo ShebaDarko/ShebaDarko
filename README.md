@@ -1,6 +1,6 @@
 **About Me**
 
-Hi everyone! 👋 I'm Sheba Darko, an MSc graduate specializing in data science. I enjoy projects in machine learning, cybersecurity, and data analysis.
+Hi everyone! 👋 I'm Sheba Darko, an MSc Computational ans Apllied Mathematics graduate specializing in data science. I enjoy projects in machine learning, cybersecurity, and data analysis.
 
 **What I Do**
 
@@ -14,7 +14,7 @@ Hi everyone! 👋 I'm Sheba Darko, an MSc graduate specializing in data science.
 - **ML Defense:** Protecting ML models from adversarial attacks.
 - **Cybersecurity Solutions:** Developing intrusion detection systems and cybersecurity measures.
 - **Data Vulnerability Management:** Analyzing and managing vulnerabilities in datasets.
-- **Simulation Modeling:** Conducting compacton scattering simulations and other scenarios.
+- **HPC:** Performing benchmark performances vwith supercomputers.
 
 **Let's Connect**
 
