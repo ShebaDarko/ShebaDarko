@@ -1,6 +1,6 @@
 **About Me**
 
-Hi everyone! 👋 I'm Sheba Darko, an MSc Computational ans Apllied Mathematics graduate specializing in data science. I enjoy projects in machine learning, cybersecurity, and data analysis.
+Hi everyone! 👋 I'm Sheba Darko, an MSc Computational and Aplied Mathematics graduate specializing in data science. I enjoy projects in machine learning, cybersecurity, and data analysis.
 
 **What I Do**
 
